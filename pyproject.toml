@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "yuyuweb"
+version = "1.0.0"
+description = "The New Yuyu Wall"
+authors = ["Enderman114514"]
+license = "Copyright © 2022-2024 CloudRain Corporation."
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.9.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
